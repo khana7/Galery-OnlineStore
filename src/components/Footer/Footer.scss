@@ -1,0 +1,41 @@
+.footer {
+    background-color: #ECEAEA;
+    padding: 24px 0;
+
+
+    &__wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+
+    &__nav {
+        display: flex;
+        align-items: center;
+    }
+
+    &__link {
+        margin-right: 40px;
+        color: #555555;
+        line-height: 150%;
+    }
+
+    &__phone {
+        display: flex;
+        align-items: center;
+        margin-left:45px;
+        
+    }
+    &__phone-icon{
+        margin-right: 9px;
+    }
+    &__adress{
+        display: flex;
+        align-items: center;
+        margin-left: 10px;
+    }
+    &__adress-icon{
+        margin-right: 10px;
+    }
+}

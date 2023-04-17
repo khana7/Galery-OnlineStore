@@ -1,0 +1,6 @@
+export { Main } from './Main/Main'
+export { Catalog } from './Catalog/Catalog'
+export { Contacts } from './Contacts/Contacts'
+export { Delivery } from './Delivery/Delivery'
+export { Galery } from './Galery/Galery'
+export { Payment } from './Payment/Payment'
